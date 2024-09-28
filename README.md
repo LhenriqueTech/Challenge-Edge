@@ -13,7 +13,7 @@ Node-red. O projeto no Node-RED simula uma aplicação de IoT, permitindo monito
 - Gabriel Ferreira Rm: 556476
 - Felipe Xavier Rm: 556931
 
-## Componentes Utilizados:
+## Componentes Utilizados no Tinkercad:
 - 1 Arduino Uno R3
 - 1 Placa de Ensaio
 - 4 Resistores 330 Ω
