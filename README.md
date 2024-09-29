@@ -6,6 +6,7 @@ Tinkercad.O projeto no Tinkercad é uma simulação de um sistema IoT que utiliz
 
 Node-red. O projeto no Node-RED simula uma aplicação de IoT, permitindo monitorar eventos de uma corrida de Fórmula E, como "primeiro lugar", "pitstop", "acidente" e "fim de corrida". O fluxo exibe esses eventos em um dashboard interativo e integra uma API de clima para mostrar a temperatura do local da corrida. Essa simulação reflete como uma aplicação IoT coleta e processa dados de forma inteligente e em tempo real.
 
+
 ## Integrantes do grupo
 - Pedro Guidotte Rm: 556630
 - Cauã Rodrigues Rm: 555373
@@ -97,7 +98,7 @@ void loop() {
   }
 }
 
-##Como Instalar as Bibliotecas do NODE-RED
+## Como Instalar as Bibliotecas do NODE-RED
 
 Acesse o Node-RED.
 Vá para Menu > Manage Palette > Install.
@@ -105,4 +106,3 @@ Procure pelos nomes das bibliotecas necessárias e clique em Install:
 Para o dashboard: procure por node-red-dashboard.
 Para a requisição HTTP: procure por node-red-node-http-request.
 Para a porta serial (serialport): procure por node-red-node-serialport.
-
