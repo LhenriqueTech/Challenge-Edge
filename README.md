@@ -96,3 +96,13 @@ void loop() {
     }
   }
 }
+
+##Como Instalar as Bibliotecas do NODE-RED
+
+Acesse o Node-RED.
+Vá para Menu > Manage Palette > Install.
+Procure pelos nomes das bibliotecas necessárias e clique em Install:
+Para o dashboard: procure por node-red-dashboard.
+Para a requisição HTTP: procure por node-red-node-http-request.
+Para a porta serial (serialport): procure por node-red-node-serialport.
+
