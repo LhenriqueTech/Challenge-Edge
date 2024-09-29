@@ -1,7 +1,7 @@
 # Challenge Edge
 
 ## Descrição do Projeto:
-Tinkercad.O projeto no Tinkercad é uma simulação de um sistema IoT que utiliza LEDs e um motor vibratório para representar eventos de uma corrida de Fórmula E. Os LEDs de diferentes cores acendem para indicar situações como "primeiro lugar", "pitstop", "acidente" e "fim de corrida". O motor vibratório é acionado para dar feedback físico sobre esses eventos.
+Tinkercad. O projeto no Tinkercad é uma simulação de um sistema IoT que utiliza LEDs e um motor vibratório para representar eventos de uma corrida de Fórmula E. Os LEDs de diferentes cores acendem para indicar situações como "primeiro lugar", "pitstop", "acidente" e "fim de corrida". O motor vibratório é acionado para dar feedback físico sobre esses eventos.
 
 
 Node-red. O projeto no Node-RED simula uma aplicação de IoT, permitindo monitorar eventos de uma corrida de Fórmula E, como "primeiro lugar", "pitstop", "acidente" e "fim de corrida". O fluxo exibe esses eventos em um dashboard interativo e integra uma API de clima para mostrar a temperatura do local da corrida. Essa simulação reflete como uma aplicação IoT coleta e processa dados de forma inteligente e em tempo real.
