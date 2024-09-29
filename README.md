@@ -24,7 +24,7 @@ Node-red. O projeto no Node-RED simula uma aplicação de IoT, permitindo monito
 - 1 Buzzer
 
 ## Link do Video
-
+https://youtu.be/B2yeGO8Vqu0
 
 ## Link da simulação no Tinkercad
 https://www.tinkercad.com/things/k2r69nuvtGG-challenge-edge?sharecode=D4tLqTpKuc6FzwHcB3TKsrfVKckxGTC19ze2BjxXrgI
